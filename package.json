@@ -3,11 +3,16 @@
   "description": "A-Product Showcase",
   "version": "0.1.0",
   "license": "MIT",
+  "main": "index.html",
   "scripts": {
-    "start": "budo --live --verbose --port 3000 --open"
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel": "^1.12.3"
   },
   "devDependencies": {
-    "budo": "^7.1.0"
+    "parcel-bundler": "^1.6.1"
   },
   "keywords": [
     "threejs",
