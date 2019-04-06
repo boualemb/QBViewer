@@ -1,0 +1,17 @@
+{
+  "name": "glTF-Viewer",
+  "description": "A-Product Showcase",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "budo --live --verbose --port 3000 --open"
+  },
+  "devDependencies": {
+    "budo": "^7.1.0"
+  },
+  "keywords": [
+    "threejs",
+    "glTF",
+    "3D"
+  ]
+}

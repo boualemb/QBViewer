@@ -7,14 +7,14 @@ animate();
 function init() {
     const canvas = document.querySelector('#canvas');
     camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 0.01, 10 );
-    camera.position.z = 50;
+    camera.position.z = 2;
     
     scene = new THREE.Scene();
 
     var light = new THREE.AmbientLight( 0x404040 ); // soft white light
     scene.add( light );
     loader = new THREE.GLTFLoader();
-    loader.load('models/gltf/logo/QB_LOGO.glb', 
+    loader.load('models/gltf/flag/Flag_Algeria.glb', 
     function(gltf)
     {
         
