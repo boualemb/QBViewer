@@ -1,2 +1,2 @@
-# glTF-Viewer
-A moderne 3D glTF viewer
+# QB Viewer
+Online 3D viewer
