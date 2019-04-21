@@ -322,23 +322,23 @@
         {
             "sampler": 0,
             "source": 0,
-            "name": "QB_LOGO_metallic.jpg"
+            "name": "QB_LOGO_b.jpg"
         },
         {
             "sampler": 0,
             "source": 1,
-            "name": "QB_LOGO_diffuseOriginal.jpg"
+            "name": "QB_LOGO_d.jpg"
         }
 
 
     ],
     "images": [
         {
-            "uri": "QB_LOGO_metallic.jpg"
+            "uri": "QB_LOGO_b.jpg"
         },
         
         {
-            "uri": "QB_LOGO_diffuseOriginal.jpg"
+            "uri": "QB_LOGO_d.jpg"
         }
 
     ],
