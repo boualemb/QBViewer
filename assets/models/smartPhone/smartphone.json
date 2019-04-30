@@ -1,0 +1,76 @@
+{
+    "Objects": [
+        
+        {
+            "name": "SM_Coque",
+            "displayName": "qPhone X",
+            "Height": "156 mm",
+            "Width": "73 mm",
+            "Depth":"9 mm",
+            "Weight":"180 g",
+            "SIM":"nano"
+
+        },
+        {
+            "name": "SM_Screen",
+            "displayName": "Screen",
+            "Type": "IPS AMOLED",
+            "Size": "6.6 \"",
+            "Resolution":"1080 x 2340",
+            "DPI":"~390 ppi",
+            "Protection":"Gorilla Glass 6"
+        },
+        {
+            "name": "SM_CarteMere",
+            "displayName": "Connectivity",
+            "Networkk":"3G/4G",
+            "Wifi" : "Wi-Fi 802.11 a/b/g/n/ac",
+            "Bluetooth" : "5.0 LE",
+            "GPS": "Yes",
+            "NFC" : "Yes",
+            "USB" : "Type-C"
+        },
+        {
+            "name": "SM_Memoire",
+            "displayName": "Memory",
+            "RAM": "4 Go LPDDR4",
+            "ROM": "64 Go",
+            "External storage" : "Up to 256 Go"
+
+        },
+        {
+            "name": "SM_SOC",
+            "displayName": "Platforme",
+            "OS":"QUBE OS X",
+            "CPU":"QB6518",
+            "Number of cores": "8 Cores",
+            "Frequency": "2.2 GHz",
+            "L2 Cache" : "2 Mo",
+            "GPU" : "3D"
+        },
+        {
+            "name": "SM_Batterie",
+            "displayName": "Battery",
+            "Size": "5000 mAh",
+            "Time": "50 % in 10 min"
+        },
+        {
+            "name": "SM_Rear_Camera1",
+            "displayName": "Main camera",
+            "Dual": "16 MP / 5 MP",
+            "Video": "4K 60fps"
+        },
+        {
+            "name": "SM_Rear_Camera2",
+            "displayName": "Main camera",
+            "Dual": "16 MP / 5 MP",
+            "Video": "4K 60fps"
+        },
+        {
+            "name": "SM_Front_Camera",
+            "displayName": "Selfie camera",
+            "Single": "16 MP",
+            "Video": "1080p 30fps"
+        }
+    ]
+}
